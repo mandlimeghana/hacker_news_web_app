@@ -10,7 +10,8 @@
       "assets": [
         "assets",
         "favicon.ico",
-        "hacker_news_logo.png"
+        "hacker_news_logo.png",
+        "hacker_letter.png"
       ],
       "index": "index.html",
       "main": "main.ts",
